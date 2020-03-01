@@ -22,6 +22,7 @@ class Solution:
     
 s = Solution()
 a = s.twoSum([3,2,3],6)
+
 print(a)
 
 
